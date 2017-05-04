@@ -1,6 +1,9 @@
 # Terceiro Trabalho de Princípios de Engenharia de Software #
 - **Alunos**: 
   * Daniela Brazão Maksoud (**[@danielamaksoud](https://github.com/danielamaksoud)**) — 1321873
+  * Hugo
+  * Jordan
+  * Nino Lizardo
   * Thaíssa Falbo (**[@tfalbo](https://github.com/tfalbo)**) — 1421110
 - **Disciplina**: INF1629
 - **Professor**: Julio Cesar Sampaio do Prado Leite
