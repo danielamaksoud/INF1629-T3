@@ -1,3 +1,5 @@
+![Miners Logo](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/miners.png?raw=true)
+
 # Terceiro Trabalho de Princípios de Engenharia de Software #
 - **Alunos**: 
   * Daniela Brazão Maksoud (**[@danielamaksoud](https://github.com/danielamaksoud)**) — 1321873
