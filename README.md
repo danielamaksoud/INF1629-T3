@@ -3,7 +3,7 @@
   * Daniela Brazão Maksoud (**[@danielamaksoud](https://github.com/danielamaksoud)**) — 1321873
   * Hugo Rodrigues (**[@hipsterHiken](https://github.com/hipsterHiken)**)
   * Jordan (**[@jordan2R](https://github.com/jordan2R)**)
-  * Nino Lizardo (**[@ninofabrizio](https://github.com/ninofabrizio)**)
+  * Nino Fabrizio Tiriticco (**[@ninofabrizio](https://github.com/ninofabrizio)**) — 1113203
   * Thaíssa Falbo (**[@tfalbo](https://github.com/tfalbo)**) — 1421110
 - **Disciplina**: INF1629
 - **Professor**: Julio Cesar Sampaio do Prado Leite
