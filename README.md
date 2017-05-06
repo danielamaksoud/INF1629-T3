@@ -33,6 +33,7 @@ Nome | Descrição
 
 ### Referências ###
 - **[Princípios de Engenharia de Software (Notas de Aula)](https://pes2006.wordpress.com/)**
+- **[Douglas Bastos (Descomplicando os mocks)](https://www.slideshare.net/douglashenry7/descomplicando-os-mocks/)**
 
 ### Contribuidor ###
 ...
