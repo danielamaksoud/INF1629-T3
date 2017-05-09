@@ -1,4 +1,4 @@
-![Miners Logo](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/miners.png?raw=true)
+![Miners Logo](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Logo/miners.png?raw=true)
 
 # Terceiro Trabalho de Princípios de Engenharia de Software #
 - **Alunos**: 
