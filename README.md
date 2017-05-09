@@ -26,7 +26,7 @@ Nome | Descrição
 
 ### Pré Requisitos ###
 É necessário instalar: 
-- **[Python](http://python.org.br/qual-python)**
+- **[Python](http://python.org.br/instalacao-mac)**
 
 ### Execução ###
 ...
