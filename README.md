@@ -4,7 +4,7 @@
 - **Alunos**: 
   * Daniela Brazão Maksoud (**[@danielamaksoud](https://github.com/danielamaksoud)**) — 1321873
   * Hugo Rodrigues (**[@hipsterHiken](https://github.com/hipsterHiken)**) — 1310576
-  * Jordan Rodrigues (**[@jordan2R](https://github.com/jordan2R)**)
+  * Jordan Rodrigues (**[@jordan2R](https://github.com/jordan2R)**) — 1310553
   * Miguel José (**[@pingam](https://github.com/pingam)**) — 1111284
   * Nino Fabrizio Tiriticco (**[@ninofabrizio](https://github.com/ninofabrizio)**) — 1113203
   * Thaíssa Falbo (**[@tfalbo](https://github.com/tfalbo)**) — 1421110
