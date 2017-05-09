@@ -5,8 +5,10 @@
   * Daniela Brazão Maksoud (**[@danielamaksoud](https://github.com/danielamaksoud)**) — 1321873
   * Hugo Rodrigues (**[@hipsterHiken](https://github.com/hipsterHiken)**)
   * Jordan Rodrigues (**[@jordan2R](https://github.com/jordan2R)**)
+  * Miguel José (**[@pingam](https://github.com/pingam)**) — 1111284
   * Nino Fabrizio Tiriticco (**[@ninofabrizio](https://github.com/ninofabrizio)**) — 1113203
   * Thaíssa Falbo (**[@tfalbo](https://github.com/tfalbo)**) — 1421110
+  * Thiago Lages de Alencar (**[@thiagola92](https://github.com/thiagola92)**) — 1121561
 - **Disciplina**: INF1629
 - **Professor**: Julio Cesar Sampaio do Prado Leite
 - **Instituição**: Pontifícia Universidade Católica do Rio de Janeiro
