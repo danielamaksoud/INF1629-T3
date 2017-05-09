@@ -25,20 +25,18 @@ Nome | Descrição
 **[DIARIO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/DIARIO.md)** | Diário do processo de desenvolvimento do trabalho
 
 ### Pré Requisitos ###
-É necessário ...
+É necessário instalar: 
+- **[Python](http://python.org.br/qual-python)**
 
 ### Execução ###
 ...
 
 ### Construído com ###
-...
+- Python
 
 ### Referências ###
 - **[Princípios de Engenharia de Software (Notas de Aula)](https://pes2006.wordpress.com/)**
 - **[Douglas Bastos (Descomplicando os mocks)](https://www.slideshare.net/douglashenry7/descomplicando-os-mocks/)**
-
-### Contribuidor ###
-...
 
 ### Licença ###
 O trabalho é licenciado sob a **[Licença Pública Geral GNU Versão 3](http://www.gnu.org/licenses/gpl-3.0.html)**.
