@@ -3,7 +3,7 @@
 # Terceiro Trabalho de Princípios de Engenharia de Software #
 - **Alunos**: 
   * Daniela Brazão Maksoud (**[@danielamaksoud](https://github.com/danielamaksoud)**) — 1321873
-  * Hugo Rodrigues (**[@hipsterHiken](https://github.com/hipsterHiken)**)
+  * Hugo Rodrigues (**[@hipsterHiken](https://github.com/hipsterHiken)**) — 1310576
   * Jordan Rodrigues (**[@jordan2R](https://github.com/jordan2R)**)
   * Miguel José (**[@pingam](https://github.com/pingam)**) — 1111284
   * Nino Fabrizio Tiriticco (**[@ninofabrizio](https://github.com/ninofabrizio)**) — 1113203
