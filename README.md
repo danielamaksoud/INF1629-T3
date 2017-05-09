@@ -20,9 +20,9 @@ O terceiro trabalho de **Princípios de Engenharia de Software (INF1629)** é ..
 
 Nome | Descrição
 ------------ | -------------
-**[LICENSE](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documentos/LICENSE)** | Licença do trabalho
+**[LICENSE](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/LICENSE)** | Licença do trabalho
 **[README.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/README.md)** | Informação geral sobre o trabalho
-**[DIARIO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/DIARIO.md)** | Diário do processo de desenvolvimento do trabalho
+**[DIARIO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/DIARIO.md)** | Diário do processo de desenvolvimento do trabalho
 
 ### Pré Requisitos ###
 É necessário ...
