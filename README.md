@@ -32,7 +32,8 @@ Nome | Descrição
 ...
 
 ### Construído com ###
-- Python
+- **[Brackets](http://brackets.io/)** (editor de código utilizado)
+- **[Python](https://www.python.org/downloads/)** (linguagem de programação utilizada)
 
 ### Referências ###
 - **[Princípios de Engenharia de Software (Notas de Aula)](https://pes2006.wordpress.com/)**
