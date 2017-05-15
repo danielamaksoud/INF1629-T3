@@ -2,4 +2,4 @@
 
 ### 11/05/2017 ###
 
-- Cantamos Kumbaya.
+- Fomos apresentados a cliente e recebemos uma explicação da tarefa.
