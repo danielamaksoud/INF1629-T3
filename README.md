@@ -9,6 +9,7 @@
   * Nino Fabrizio Tiriticco (**[@ninofabrizio](https://github.com/ninofabrizio)**) — 1113203
   * Thaíssa Falbo (**[@tfalbo](https://github.com/tfalbo)**) — 1421110
   * Thiago Lages de Alencar (**[@thiagola92](https://github.com/thiagola92)**) — 1121561
+- **Cliente**: Roxana Portugal (**[@nitanilla](https://github.com/nitanilla)**)
 - **Disciplina**: INF1629
 - **Professor**: Julio Cesar Sampaio do Prado Leite
 - **Instituição**: Pontifícia Universidade Católica do Rio de Janeiro
