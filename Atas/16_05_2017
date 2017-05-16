@@ -1,0 +1,17 @@
+Ata da Reunião 16/05/2017
+Presentes: Daniela, Hugo, Miguel, Nino e Thiago
+
+Foi feita a correção da Ata da reunião passada seguindo observações da Roxanna mandada ao grupo por email.
+Elas são referentes ao que o cliente quer do software final.
+
+Decidimos que seria melhor usar o projeto que a cliente nos passou como base para nosso projeto, sendo assim, iremos
+implementar o software na linguagem nativa do projeto anterior: Ruby.
+
+Discutimos ideias para a parte do que tem de ser implementado:
+- Json contém uma lista com as labels da issue, se a lista estar vazia, ela é sem label
+- Uma opção para o usuário querer os comentários feitos nas issues
+- Podemos manter o mesmo formato do que é retornado no projeto anterior, só que para issues. Sendo assim, cada arquivo é uma issue. Dentro do arquivo teremos as informações referentes à issue, comentários incluídos. (confirmar com a cliente a preferência do formato)
+
+Para o dia 18/05:
+- Cada integrante deve ter pelo menos uma noção do funcionamento do código dentro do projeto mandado pela cliente.
+- Confirmar durante a reunião com a cliente o terceiro item do que foi discutido hoje.
