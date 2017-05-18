@@ -15,7 +15,7 @@
 - **Instituição**: Pontifícia Universidade Católica do Rio de Janeiro
 
 ### Descrição ###
-O terceiro trabalho de **Princípios de Engenharia de Software (INF1629)** é ...
+O terceiro trabalho de **Princípios de Engenharia de Software (INF1629)** é construir um software seguindo as necessidades da cliente usando as 6 regras do Engenheiro de Software vistas na disciplina.
 
 ### Arquivos ###
 
@@ -24,10 +24,12 @@ Nome | Descrição
 **[LICENSE](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/LICENSE)** | Licença do trabalho
 **[README.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/README.md)** | Informação geral sobre o trabalho
 **[DIARIO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/DIARIO.md)** | Diário do processo de desenvolvimento do trabalho
+**[Documentação/Atas/...](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/tree/master/Documenta%C3%A7%C3%A3o/Atas)** | Atas de cada reunião realizada do grupo e com a cliente
 
 ### Pré Requisitos ###
 É necessário instalar: 
-- **[Python](https://www.python.org/downloads/)**
+- [docker](https://docs.docker.com/engine/installation/)
+- [docker-compose](https://docs.docker.com/compose/install/)
 
 ### Execução ###
 ...
@@ -35,8 +37,6 @@ Nome | Descrição
 ### Construído com ###
 - **[Brackets](http://brackets.io/)** (editor de código utilizado)
 - **[C&L](http://pes.inf.puc-rio.br/cel/index_old.htm/)** (ferramenta de edição de cenários e léxico utilizada)
-- **[Python](https://www.python.org/downloads/)** (linguagem de programação utilizada)
-
 
 ### Referências ###
 - **[Princípios de Engenharia de Software (Notas de Aula)](https://pes2006.wordpress.com/)**
