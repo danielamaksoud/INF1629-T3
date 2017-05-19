@@ -36,7 +36,7 @@ Nome | Descrição
 
 ### Construído com ###
 - **[Brackets](http://brackets.io/)** (editor de código utilizado)
-- **[C&L](http://pes.inf.puc-rio.br/cel/index_old.htm/)** (ferramenta de edição de cenários e léxico utilizada)
+- **[C&L](http://pes.inf.puc-rio.br/cel/index_old.htm)** (ferramenta de edição de cenários e léxico utilizada)
 
 ### Referências ###
 - **[Princípios de Engenharia de Software (Notas de Aula)](https://pes2006.wordpress.com/)**
