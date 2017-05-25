@@ -41,6 +41,7 @@ Nome | Descrição
 ### Referências ###
 - **[Princípios de Engenharia de Software (Notas de Aula)](https://pes2006.wordpress.com/)**
 - **[Douglas Bastos (Descomplicando os mocks)](https://www.slideshare.net/douglashenry7/descomplicando-os-mocks/)**
+- **[Projeto usado como base (corpus-retrieval)](https://github.com/nitanilla/corpus-retrieval)**
 
 ### Licença ###
 O trabalho é licenciado sob a **[Licença Pública Geral GNU Versão 3](http://www.gnu.org/licenses/gpl-3.0.html)**.
