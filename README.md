@@ -26,13 +26,8 @@ Nome | Descrição
 **[DIARIO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/DIARIO.md)** | Diário do processo de desenvolvimento do trabalho
 **[Documentação/Atas/...](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/tree/master/Documenta%C3%A7%C3%A3o/Atas)** | Atas de cada reunião realizada do grupo e com a cliente
 
-### Pré Requisitos ###
-É necessário instalar: 
-- [docker](https://docs.docker.com/engine/installation/)
-- [docker-compose](https://docs.docker.com/compose/install/)
-
-### Execução ###
-...
+### Pré Requisitos e Execução ###
+Código e instruções no [repositório](https://github.com/ninofabrizio/corpus-retrieval).
 
 ### Construído com ###
 - **[Brackets](http://brackets.io/)** (editor de código utilizado)
