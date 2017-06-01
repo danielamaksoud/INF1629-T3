@@ -6,7 +6,7 @@
 | buscador     |    |    |    | X  |    | X  | X   |     |
 | comentário   |    |    | X  |    |    |    |     |     |
 | corpus       |    |    |    | X  |    | X  |     |     |
-| github       | X  |    | X  |    |    |    | X   |     |
+| github       | X  |    |    |    |    |    | X   |     |
 | issue        | X  | X  | X  |    |    |    |     | X   |
 | label        |    | X  |    |    |    |    |     | X   |
 | minerador    | X  |    |    |    |    |    |     |     |
