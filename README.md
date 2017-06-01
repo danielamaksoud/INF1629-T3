@@ -26,9 +26,10 @@ Nome | Descrição
 **[DIARIO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/DIARIO.md)** | Diário do processo de desenvolvimento do trabalho
 **[Documentação/Atas/...](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/tree/master/Documenta%C3%A7%C3%A3o/Atas)** | Atas de cada reunião realizada do grupo e com a cliente
 **[recuperacao_desenho.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/recuperacao_desenho.md)** | Registra a Recuperação de Desenho
+**[rastro.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/rastro.md)** | Contém o Rastro entre Símbolos do Léxico e Requisitos
 
 ### Pré Requisitos e Execução ###
-Código e instruções no [repositório](https://github.com/ninofabrizio/corpus-retrieval).
+Código e instruções de uso no [repositório](https://github.com/ninofabrizio/corpus-retrieval).
 
 ### Construído com ###
 - **[Brackets](http://brackets.io/)** (editor de código utilizado)
