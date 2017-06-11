@@ -20,3 +20,8 @@
 ### 04/06/2017 ###
 
 - Foi criada a primeira versão do modelo das classes que compõem a Arquitetura.
+
+### 11/06/2017 ###
+
+- Foram modificadas as classes de busca para atender busca de issues **github_consumer.rb**, **issues_searcher.rb** e **issue_info_searcher.rb**.
+- Foi atualizado o Diagrama de Classes.
