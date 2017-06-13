@@ -28,5 +28,4 @@
 
 ### 13/06/2017 ###
 
-- A página inicial **index.html.erb** tinha sido alterada dia 7 para incluir as opções de label e se quer ou não comentários.
-- Hoje foi alterada para também dar a opção de qual ordenação o usuário quer as issues.
+- A página inicial **index.html.erb** tinha sido alterada na data 07/06/2017 para incluir as opções de label e se quer ou não comentários. Hoje foi alterada para também dar a opção de qual ordenação o usuário quer as issues. Com isso poderemos capturar as informações passadas pelo usuário.
