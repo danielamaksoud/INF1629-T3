@@ -30,3 +30,7 @@
 
 - A página inicial **index.html.erb** tinha sido alterada na data 07/06/2017 para incluir as opções de label e se quer ou não comentários. Hoje foi alterada para também dar a opção de qual ordenação o usuário quer as issues. Com isso poderemos capturar as informações passadas pelo usuário.
 - **issue_info_searcher.rb** foi atualizado para satisfazer o requisito na issue **[#9](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/9)**, mudando o formato dos arquivos dentro do corpus de **TXT** para **JSON**. Também foram incluídos mais alguns comentários do que falta implementar nessa classe para ajudar os integrantes que forem complementar seu código.
+
+### 17/06/2017 ###
+
+- Mais uma atualização no Diagrama de Classes. **WORKERS** foi incluído a **CONTROLLER**, visto que seu papel principal é repassar informações de outras classes de **CONTROLLER** para classes de **MODEL**. Ele serve de ponto de início para as requisições, para a montagem do **ZIP** e para a classe responsável pelos resultados anteriores (**ZIP**s de resultados para download mostrados no site).
