@@ -35,5 +35,5 @@
 
 - Mais uma atualização no Diagrama de Classes. **WORKERS** foi incluído a **CONTROLLER**, visto que seu papel principal é repassar informações de outras classes de **CONTROLLER** para classes de **MODEL**. Ele serve de ponto de início para as requisições, para a montagem do **ZIP** e para a classe responsável pelos resultados anteriores (**ZIP**s de resultados para download mostrados no site).
 
-### 19/07/2017 ###
+### 19/06/2017 ###
 - Todas as informações da pesquisa que o usuário precisa passar já estão sendo passadas para o **ReadmesSetCreatorWorker.perform_async** dentro do **readmes_controller.rb**. As informações são: Query (o que se deve buscar), Match (newest, oldest, most commented...), Label (sem label, bug, ...) e se quer comentarios (true or false). Essa atualização ocorreu dia 16 e foi esquecida de ser relatada.
