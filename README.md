@@ -28,6 +28,8 @@ Nome | Descrição
 **[recuperacao_desenho.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/recuperacao_desenho.md)** | Registra a Recuperação de Desenho
 **[rastro.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/rastro.md)** | Contém o Rastro entre Símbolos do Léxico e Requisitos
 **[Arquitetura_Diagrama_Classes.png](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/Arquitetura_Diagrama_Classes.png)** | Diagrama das classes que compõem o projeto
+**[TODO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/TODO.md)** | Lista das tarefas a serem feitas e quem está fazendo o que
+
 
 ### Pré Requisitos e Execução ###
 Código e instruções de uso no [repositório](https://github.com/ninofabrizio/corpus-retrieval).
