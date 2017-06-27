@@ -50,5 +50,5 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - **[Jordan](https://github.com/jordan2R)**:
 - **[Lucas](https://github.com/lucasdebatin)**:
 - **[Miguel](https://github.com/pingam)**:
-- **[Nino](https://github.com/ninofabrizio)**:
+- **[Nino](https://github.com/ninofabrizio)**: **readmes_controller.rb** tem que passar todas as informações necessárias a issues para as classes que precisam delas.
 - **[Thiago](https://github.com/thiagola92)**:
