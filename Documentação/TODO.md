@@ -1,6 +1,6 @@
 ## Pendências do trabalho
 Cada integrante deve estar atento quando novas pendências surgirem e deve incluir na lista quando perceber. Pendências que surgirem, mesmo sendo parecidas com anteriores marcadas como checked devem ser registradas como pendências novas (ex. qualquer: `-[x] Criar classe issue_set` antes de `-[ ] Incluir método de print na classe issue_set`). Apenas pendências unchecked podem ser modificadas e se um integrante estava trabalhando nela, tem que ser atualizado na sua respectiva tarefa.
-- [ ] **readmes_controller.rb** tem que passar todas as informações necessárias a issues para as classes que precisam delas.
+- [x] **readmes_controller.rb** tem que passar todas as informações necessárias a issues para as classes que precisam delas.
 - [ ] **readmes_controller.rb** precisa obedecer a regra **não invente nomes** (inclusive no seu nome).
 - [ ] **readmes_controller.rb** precisa obedecer a regra **verificação e validação** em todos seus métodos.
 - [ ] **zip_binary_creator.rb** deve montar as informações dentro de cada arquivo dentro do **corpus** usando o modelo **JSON** de estruturar informações.
@@ -50,5 +50,5 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - **[Jordan](https://github.com/jordan2R)**:
 - **[Lucas](https://github.com/lucasdebatin)**:
 - **[Miguel](https://github.com/pingam)**:
-- **[Nino](https://github.com/ninofabrizio)**: **readmes_controller.rb** tem que passar todas as informações necessárias a issues para as classes que precisam delas.
+- **[Nino](https://github.com/ninofabrizio)**:
 - **[Thiago](https://github.com/thiagola92)**:
