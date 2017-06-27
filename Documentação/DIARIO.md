@@ -37,3 +37,10 @@
 
 ### 19/06/2017 ###
 - Todas as informações da pesquisa que o usuário precisa passar já estão sendo passadas para o **ReadmesSetCreatorWorker.perform_async** dentro do **readmes_controller.rb**. As informações são: Query (o que se deve buscar), Match (newest, oldest, most commented...), Label (sem label, bug, ...) e se quer comentarios (true or false). Essa atualização ocorreu dia 16 e foi esquecida de ser relatada.
+
+### 27/06/2017 ###
+- **index.html.erb** foi atualizado para conter corretamente as opções de label e match. Os valores gerados pelo **HTML** foram construídos da forma que seria minimamente representado na API do GitHub (ex.: para label bug, retornar uma string `label:bug`) para que as classes que fazem as requisições se preocupem apenas em como ordenar os dados para fazer as requisições.
+- **readmes_set_creator_worker.rb** teve seu campo de testes no código comentado para agilizar o processo da aplicação. Foi atualizado para quando chamar `GithubConsumer.get_issues` passar as informações sobre label, match e comments.
+- **github_consumer.rb** foi atualizado para conter parâmetros referentes ao que se precisa saber sobre a busca em seu método `get_issues`. As chamadas `get_all_issues_urls(query, match, label)` e `get_info_from_issues(issues_urls, comments)` foram implementadas, motivos estão nos tópicos abaixo.
+- **issues_searcher.rb** foi atualizado em um de seus métodos para conter `get_all_issues_urls(query, match, label)`. Como nesta classe só nos preocupamos em fazer a requisição principal de issues, comments não é necessário aqui. Match e label importam pois já filtram a requisição principal. 
+- **issue_info_searcher.rb** foi atualizado em um de seus métodos para conter `get_info_from_issues(issues_urls, comments)`. Aqui como procuramos informações dentro de cada issue, pode nos interessar procurar sobre campo comments.
