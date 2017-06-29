@@ -23,10 +23,11 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - [ ] Se certificar que TODOS os **requisitos** presentes atualmente estão sendo tratados.
 - [ ] Acoplar a aplicação ao **Heroku**.
 - [ ] Tratar das proxies necessárias para nossa aplicação.
+- [ ] Possibilitar login e senha para acessar página da aplicação.
 - [ ] Se certificar que código morto, inclusive código de teste, não esteja presente em NENHUMA parte da aplicação.
-- [ ] Se certificar que a regra **não invente nomes** está sendo seguida no trabalho TODO.
+- [ ] Se certificar que a regra **não invente nomes** está sendo seguida no trabalho TODO. Caso não dê para alguns casos, documentar o motivo.
 - [ ] Se certificar que a regra **intervalo mágico** está sendo seguida no trabalho TODO.
-- [ ] Se certificar que a regra **desenho limpo** está sendo seguida no trabalho TODO.
+- [ ] Se certificar que a regra **desenho limpo** está sendo seguida no trabalho TODO. Caso não dê para alguns casos, documentar o motivo.
 - [ ] Se certificar que a regra **verificação e validação** está sendo seguida no trabalho TODO.
 - [ ] Se certificar que a regra **identificação** está sendo seguida no trabalho TODO.
 - [ ] Se certificar que a regra **livro diário** está sendo seguida no trabalho TODO.
