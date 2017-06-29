@@ -44,3 +44,8 @@
 - **github_consumer.rb** foi atualizado para conter parâmetros referentes ao que se precisa saber sobre a busca em seu método `get_issues`. As chamadas `get_all_issues_urls(query, match, label)` e `get_info_from_issues(issues_urls, comments)` foram implementadas, motivos estão nos tópicos abaixo.
 - **issues_searcher.rb** foi atualizado em um de seus métodos para conter `get_all_issues_urls(query, match, label)`. Como nesta classe só nos preocupamos em fazer a requisição principal de issues, comments não é necessário aqui. Match e label importam pois já filtram a requisição principal. 
 - **issue_info_searcher.rb** foi atualizado em um de seus métodos para conter `get_info_from_issues(issues_urls, comments)`. Aqui como procuramos informações dentro de cada issue, pode nos interessar procurar sobre campo comments.
+
+### 29/06/2017 ###
+- Método `IssueInfoSearcher.get_info_from_issues` teve parâmetro match incluído para a possibilidade de já arrumar issues na estrutura principal pela ordenação. Por enquanto não é usado.
+- **issues_searcher.rb** teve adicionado na string da query principal a parte de busca por label pedida pelo usuário para filtrar a busca. Lógica de ordenação não revisada.
+- **issue_info_searcher.rb** teve a parte de requisição de comentário implementada e teve os dados de usuário incluídos. Como uma solução rápida, o código para criar a estrutura final foi dividido em duas partes com repetição de código. Uma parte para tratar comentários, outra sem. O ideal é tirar o código repetido futuramente. Parte testada e aparentemente ok.
