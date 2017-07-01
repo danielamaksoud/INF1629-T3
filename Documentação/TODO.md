@@ -52,4 +52,4 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - **[Lucas](https://github.com/lucasdebatin)**:
 - **[Miguel](https://github.com/pingam)**:
 - **[Nino](https://github.com/ninofabrizio)**:
-- **[Thiago](https://github.com/thiagola92)**:
+- **[Thiago](https://github.com/thiagola92)**: O Rastro deve desempenhar seu papel de rastreabilidade entre símbolos do Léxico e requisitos, incluindo onde cada símbolo estaria presente (quando está) no código. **readmes_controller.rb** precisa obedecer a regra **não invente nomes** (inclusive no seu nome).
