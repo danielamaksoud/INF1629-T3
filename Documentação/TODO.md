@@ -16,7 +16,7 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - [ ] **issues_searcher.rb** precisa obedecer a regra **verificação e validação** em todos seus métodos.
 - [ ] Tem que ser mostrado de forma clara em **index.html.erb** as etapas do processamento dos dados da query feita pelo usuário.
 - [ ] **Ruby (ao saber em que classe extamente, substituir pelo nome dela aqui)** precisa ir informando a **index.html.erb** as etapas do processamento dos dados da query enquanto processa.
-- [ ] Corrigir o bug da janela de download que fica "pipocando" a cada novo refresh da página da aplicação no navegador.
+- [x] Corrigir o bug da janela de download que fica "pipocando" a cada novo refresh da página da aplicação no navegador.
 - [ ] **Diagrama de Classes** tem que obedecer as regras que definem o diagrama e precisa seguir com fidelidade a arquitetura da nossa aplicação.
 - [ ] **Diagrama de Componentes** tem que obedecer as regras que definem o diagrama e precisa seguir com fidelidade a arquitetura da nossa aplicação.
 - [x] O **Rastro** deve desempenhar seu papel de rastreabilidade entre símbolos do **Léxico** e **requisitos**, incluindo onde cada símbolo estaria presente (quando está) no código.
