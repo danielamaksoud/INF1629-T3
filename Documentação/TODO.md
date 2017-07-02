@@ -1,7 +1,7 @@
 ## Pendências do trabalho
 Cada integrante deve estar atento quando novas pendências surgirem e deve incluir na lista quando perceber. Pendências que surgirem, mesmo sendo parecidas com anteriores marcadas como checked devem ser registradas como pendências novas (ex. qualquer: `-[x] Criar classe issue_set` antes de `-[ ] Incluir método de print na classe issue_set`). Apenas pendências unchecked podem ser modificadas e se um integrante estava trabalhando nela, tem que ser atualizado na sua respectiva tarefa.
 - [x] **readmes_controller.rb** tem que passar todas as informações necessárias a issues para as classes que precisam delas.
-- [ ] **readmes_controller.rb** precisa obedecer a regra **não invente nomes** (inclusive no seu nome).
+- [x] **readmes_controller.rb** precisa obedecer a regra **não invente nomes** (inclusive no seu nome).
 - [ ] **readmes_controller.rb** precisa obedecer a regra **verificação e validação** em todos seus métodos.
 - [ ] **zip_binary_creator.rb** deve montar as informações dentro de cada arquivo dentro do **corpus** usando o modelo **JSON** de estruturar informações.
 - [ ] **zip_binary_creator.rb** precisa obedecer a regra **não invente nomes** (inclusive no seu nome).
@@ -19,7 +19,7 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - [ ] Corrigir o bug da janela de download que fica "pipocando" a cada novo refresh da página da aplicação no navegador.
 - [ ] **Diagrama de Classes** tem que obedecer as regras que definem o diagrama e precisa seguir com fidelidade a arquitetura da nossa aplicação.
 - [ ] **Diagrama de Componentes** tem que obedecer as regras que definem o diagrama e precisa seguir com fidelidade a arquitetura da nossa aplicação.
-- [ ] O **Rastro** deve desempenhar seu papel de rastreabilidade entre símbolos do **Léxico** e **requisitos**, incluindo onde cada símbolo estaria presente (quando está) no código.
+- [x] O **Rastro** deve desempenhar seu papel de rastreabilidade entre símbolos do **Léxico** e **requisitos**, incluindo onde cada símbolo estaria presente (quando está) no código.
 - [ ] Se certificar que TODOS os **requisitos** presentes atualmente estão sendo tratados.
 - [ ] Acoplar a aplicação ao **Heroku**.
 - [ ] Tratar das proxies necessárias para nossa aplicação.
@@ -52,4 +52,4 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - **[Lucas](https://github.com/lucasdebatin)**:
 - **[Miguel](https://github.com/pingam)**:
 - **[Nino](https://github.com/ninofabrizio)**:
-- **[Thiago](https://github.com/thiagola92)**: O Rastro deve desempenhar seu papel de rastreabilidade entre símbolos do Léxico e requisitos, incluindo onde cada símbolo estaria presente (quando está) no código. **readmes_controller.rb** precisa obedecer a regra **não invente nomes** (inclusive no seu nome).
+- **[Thiago](https://github.com/thiagola92)**: 
