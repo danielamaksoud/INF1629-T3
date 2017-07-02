@@ -1,50 +1,119 @@
 # Rastro
 
-|    Símbolo / Requisito        | #2 | #3 | #4 | #5 | #6 | #9 | #10 | #11 | #12 | #13 | #14 | #15 |
-|-------------------------------|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|
-| [apresentação](#apresentação) |    |    |    | X  |    |    |     |     |     |     | X   |     |
-| [busca](#busca)               | X  | X  | X  |    | X  |    | X   | X   |     |     | X   |     |
-| [buscador](#buscador)         |    |    |    | X  |    | X  | X   |     | X   | X   | X   | X   |
-| [comentário](#comentário)     |    |    | X  |    |    |    |     |     |     |     |     |     |
-| [corpus](#corpus)             |    |    |    | X  |    | X  |     |     |     |     | X   |     |
-| [github](#github)             | X  |    |    |    |    |    | X   |     |     | X   |     |     |
-| [issue](#issue)               | X  | X  | X  |    |    |    |     | X   |     |     |     |     |
-| [label](#label)               |    | X  |    |    |    |    |     | X   |     |     |     |     |
-| [minerador](#minerador)       | X  |    |    |    |    |    |     |     | X   |     | X   |     |
-| [requisitando](#requisitando) | X  | X  | X  |    | X  |    | X   |     |     |     | X   |     |
+|    Símbolo / Requisito        |
+[#2](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/2) |
+[#3](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/3) |
+[#4](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/4) |
+[#5](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/5) |
+[#6](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/6) |
+[#9](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/9) |
+[#10](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/10) |
+[#11](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/11) |
+[#12](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/12) |
+[#13](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/13) |
+[#14](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/14) |
+[#15](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/15) |
+[#16](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/issues/16) |
+|-------------------------------|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|-----|
+| [client](#client)             | X  |    |    |    |    |    |     |     |     |     | X   |     | X   |
+| [comment](#comment)           |    |    | X  |    |    |    |     |     |     |     |     |     |     |
+| [corpus](#corpus)             |    |    |    | X  |    | X  |     |     |     |     | X   |     | X   |
+| [github](#github)             | X  |    |    |    |    |    | X   |     |     |     |     |     |     |
+| [issue](#issue)               | X  | X  | X  |    |    |    |     | X   |     |     |     |     |     |
+| [label](#label)               |    | X  |    |    |    |    |     | X   |     |     |     |     |     |
+| [query](#query)               | X  | X  | X  | X  | X  |    | X   | X   |     | X   | X   |     | X   |
+| [software](#software)         |    |    |    |    |    | X  |     |     | X   | X   | X   | X   | X   |
 
-## Apresentação ##
-Resulta no corpus de resultados, gerado por uma busca.
+## client ##
+> Is the person (or persons) who wants to get informations about issues on github.
 
-## Busca ##
-minerador ativa uma busca ao definir o que deseja no corpus.  
-É a requisição dos dados do github sobre o assunto definido.
+* This person chose the subject, ordination, label that the query will have and start the search. Also if should get the comments.
+* The person will receive a corpus with everything requested.
 
-## Buscador ##
-Software que o minerador usa para fazer a busca no github.  
-Obtém as issues e, se o minerador desejar, os seus comentários.  
-Faz apresentação do corpus de resultados.
+Synonymous:
+[client](https://github.com/ninofabrizio/corpus-retrieval/search?q=client),
+[clients](https://github.com/ninofabrizio/corpus-retrieval/search?q=clients),
+[user](https://github.com/ninofabrizio/corpus-retrieval/search?q=user),
+[users](https://github.com/ninofabrizio/corpus-retrieval/search?q=users)
 
-## Comentário ##
-É uma discussão referente a uma issue. Pode ser requisitado pelo minerador.
+## comment ##
+> An discussion inside one issue.
+The client can request for the discussion be included on corpus.
 
-## Corpus ##
-Conjunto de textos estruturados.
-Possui os dados referntes a issues e comentários delas.
+* If requested by the client, the software will query for comments and add to corpus.
 
-## Github ##
-GitHub é um site que permite gerenciamento de projetos criados pelo Git.  
-Armazena dados referentes a esses projetos, como issues e seus comentários.
+Synonymous:
+[comment](https://github.com/ninofabrizio/corpus-retrieval/search?q=comment),
+[discussion](https://github.com/ninofabrizio/corpus-retrieval/search?q=discussion),
+[discussions](https://github.com/ninofabrizio/corpus-retrieval/search?q=discussions),
+[comments](https://github.com/ninofabrizio/corpus-retrieval/search?q=comments)
 
-## Issue ##
-É a sugestão de melhorias, tarefas e bugs relacionado a um repositório. usuários abrem issues dentro de repositórios no github. Pode possuir comentários. corpus irá conter o seu conteúdo.
+## corpus ##
+> Corpus is a large and structured set of texts.
+Collection of data about issues and comments, that the client requested.
 
-## Label ##
-Assunto sobrer o qual uma issue trata/fala.  
-Uma issue pode ter uma label ou não.
+* All information collected from github about issues creates the corpus.
+* The corpus will be on the software website for download.
 
-## Minerador ##
-É o sujeito que deseja obter dados do github referente a issues e/ou seus comentários.
+Synonymous:
+[corpus](https://github.com/ninofabrizio/corpus-retrieval/search?q=corpus)
 
-## Requisitando ##
-Ativado quando minerador pede uma busca ao buscador. buscador faz a requisição de dados do github.
+## github ##
+> GitHub is a web-based Git or version control repository and Internet hosting service.
+Where the software will query for issues.
+
+* An issue request is made to github.
+* The software receives all issues about the subject chosed.
+* GitHub permite realizar mineração e busca por repositórios de projetos e contas do site.
+
+Synonymous:
+[github](https://github.com/ninofabrizio/corpus-retrieval/search?q=github)
+
+## issue ##
+> Any person can post a issue on a repository on github talking about something important(or not) about the project.
+Each issues can have many commets talking about it.
+Issues can have labels talking about the subject of the issue.
+
+* The client make a request for issues on the website.
+* The client can download a corpus containning the issues requested.
+
+Synonymous:
+[issue](https://github.com/ninofabrizio/corpus-retrieval/search?q=issue),
+[issues](https://github.com/ninofabrizio/corpus-retrieval/search?q=issues)
+
+## label ##
+> A word/phrase say what the issue talks about.
+A issue can have zero or more labels.
+
+* User request corpus with one label or without any labels.
+
+Synonymous:
+[label](https://github.com/ninofabrizio/corpus-retrieval/search?q=label),
+[tags](https://github.com/ninofabrizio/corpus-retrieval/search?q=tags),
+[tag](https://github.com/ninofabrizio/corpus-retrieval/search?q=tag),
+[labels](https://github.com/ninofabrizio/corpus-retrieval/search?q=labels)
+
+## query ##
+> The client start a query throught the website, chosinig one subject, ordination and label and if want comments.
+The query will search issues about the subject.
+And the software make this query on github.
+
+* The software start a query of issues on github.
+* The software get the informations in the queries about issues to make the corpus.
+
+Synonymous:
+[query](https://github.com/ninofabrizio/corpus-retrieval/search?q=query),
+[requested](https://github.com/ninofabrizio/corpus-retrieval/search?q=requested),
+[queries](https://github.com/ninofabrizio/corpus-retrieval/search?q=queries),
+[request](https://github.com/ninofabrizio/corpus-retrieval/search?q=request),
+[requests](https://github.com/ninofabrizio/corpus-retrieval/search?q=requests)
+
+## software ##
+> The index page, where the client can request the corpus, and the code that will query github, make the corpus.
+This same page can be used to download previous queries.
+
+* The user request the corpus throught the software, index page.
+* The user can download one fo the previous queries.
+
+Synonymous:
+[software](https://github.com/ninofabrizio/corpus-retrieval/search?q=software)
