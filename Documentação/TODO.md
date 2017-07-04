@@ -8,7 +8,7 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - [ ] **zip_binary_creator.rb** precisa obedecer a regra **verificação e validação** em todos seus métodos.
 - [ ] **issue_info_searcher.rb** precisa tratar da requisição de dados de comentários, quando deve procurar por estes.
 - [x] **issue_info_searcher.rb** precisa tratar de como guardar na estrutura de dados principal os dados de comentários puxados.
-- [x] **issue_info_searcher.rb** precisa obedecer a regra **não invente nomes** (inclusive no seu nome).
+- [ ] **issue_info_searcher.rb** precisa obedecer a regra **não invente nomes** (inclusive no seu nome).
 - [ ] **issue_info_searcher.rb** precisa obedecer a regra **verificação e validação** em todos seus métodos.
 - [ ] **issues_searcher.rb** precisa fazer a requisição principal para a API do GitHub usando as informações de **label**, **comentários** e **ordenação**.
 - [ ] A estrutura contendo os dados pegos nas requisições de **issues_searcher.rb** precisa obedecer a **ordenação** definida pelo usuário ao fazer a query na aplicação (isso garante a ordenação dos arquivos no corpus).
