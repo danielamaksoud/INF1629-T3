@@ -1,0 +1,38 @@
+Exemplo de json sem comments no corpus:
+
+{
+  "url": "https://api.github.com/repos/lautarodragan/game-of-life/issues/2",
+  "title": "Music",
+  "user": "lautarodragan",
+  "labels": [
+
+  ],
+  "body": ""
+}
+
+
+
+Exemplo de json com comments no corpus:
+
+{
+  "url": "https://api.github.com/repos/FACN1/week7-ifitmake-suHapi/issues/38",
+  "title": "music",
+  "user": "esraajb",
+  "labels": [
+    {
+      "name": "wontfix",
+    }
+  ],
+  "body": "💃 \r\nCOOL!\r\njust add an option to stop it"
+  "comments": 2,
+  "comments_content": [
+  	{
+      "user": "m4v15",
+      "body": "There is, you just have to go into dev tools, inspect elements, set display to inline-block and then you can click the pause button 😉 "
+    },
+  	{
+      "user": "m4v15",
+      "body": "display on the .song element that is\r\n"
+    }
+  ]
+}
