@@ -26,7 +26,7 @@ Nome | Descrição
 **[DIARIO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/DIARIO.md)** | Diário do processo de desenvolvimento do trabalho
 **[Documentação/Atas/...](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/tree/master/Documenta%C3%A7%C3%A3o/Atas)** | Atas de cada reunião realizada do grupo e com a cliente
 **[recuperacao_desenho.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/recuperacao_desenho.md)** | Registra a Recuperação de Desenho
-**[RASTRO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/rastro.md)** | Contém o Rastro entre Símbolos do Léxico e Requisitos
+**[RASTRO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/RASTRO.md)** | Contém o Rastro entre Símbolos do Léxico e Requisitos
 **[Arquitetura_Diagrama_Classes.png](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/Arquitetura_Diagrama_Classes.png)** | Diagrama das classes que compõem o projeto
 **[TODO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/TODO.md)** | Lista das tarefas a serem feitas e quem está fazendo o que
 
