@@ -16,7 +16,7 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - [x] A estrutura contendo os dados pegos nas requisições de **issues_searcher.rb** precisa obedecer a **ordenação** definida pelo usuário ao fazer a query na aplicação (isso garante a ordenação dos arquivos no corpus).
 - [x] **issues_searcher.rb** precisa obedecer a regra **não invente nomes** (inclusive no seu nome).
 - [ ] **issues_searcher.rb** precisa obedecer a regra **verificação e validação** em todos seus métodos.
-- [ ] Tem que ser mostrado de forma clara em **index.html.erb** as etapas do processamento dos dados da query feita pelo usuário.
+- [x] Tem que ser mostrado de forma clara em **index.html.erb** as etapas do processamento dos dados da query feita pelo usuário.
 - [x] **Ruby (ao saber em que classe extamente, substituir pelo nome dela aqui)** precisa ir informando a **index.html.erb** as etapas do processamento dos dados da query enquanto processa.
 - [x] Corrigir o bug da janela de download que fica "pipocando" a cada novo refresh da página da aplicação no navegador.
 - [ ] **Diagrama de Classes** tem que obedecer as regras que definem o diagrama e precisa seguir com fidelidade a arquitetura da nossa aplicação.
