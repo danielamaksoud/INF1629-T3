@@ -33,6 +33,7 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - [ ] Se certificar que a regra **verificação e validação** está sendo seguida no trabalho TODO.
 - [ ] Se certificar que a regra **identificação** está sendo seguida no trabalho TODO.
 - [ ] Se certificar que a regra **livro diário** está sendo seguida no trabalho TODO.
+- [ ] Colocar link dos comentarios feitos nas atas através de links.
 
 
 ## Tarefas
