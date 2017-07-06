@@ -9,7 +9,7 @@ Cada integrante deve estar atento quando novas pendências surgirem e deve inclu
 - [x] **issue_info_searcher.rb** precisa tratar da requisição de dados de comentários, quando deve procurar por estes.
 - [x] **issue_info_searcher.rb** precisa tratar de como guardar na estrutura de dados principal os dados de comentários puxados.
 - [x] Fazer a correção na ordenação em **issue_info_searcher.rb** para match em "recently updated" e "recently created".
-- [ ] Localizar e fazer a correção onde ordenação de "best match" não está sendo respeitada (possivelmente em **issues_searcher.rb**).
+- [x] Localizar e fazer a correção onde ordenação de "best match" não está sendo respeitada (possivelmente em **issues_searcher.rb**).
 - [x] **issue_info_searcher.rb** precisa obedecer a regra **não invente nomes** (inclusive no seu nome).
 - [ ] **issue_info_searcher.rb** precisa obedecer a regra **verificação e validação** em todos seus métodos.
 - [x] **issues_searcher.rb** precisa fazer a requisição principal para a API do GitHub usando as informações de **label**, **comentários** e **ordenação**.
