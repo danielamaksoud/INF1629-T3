@@ -28,11 +28,13 @@ Nome | Descrição
 **[recuperacao_desenho.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/recuperacao_desenho.md)** | Registra a Recuperação de Desenho
 **[RASTRO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/RASTRO.md)** | Contém o Rastro entre Símbolos do Léxico e Requisitos
 **[Arquitetura_Diagrama_Classes.png](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/Arquitetura_Diagrama_Classes.png)** | Diagrama das classes que compõem o projeto
+**[Diagrama de Componentes.png](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/Diagrama%20de%20Componentes.png)** | Diagrama que mostra a ligação entre as componentes
 **[TODO.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/TODO.md)** | Lista das tarefas a serem feitas e quem está fazendo o que
+**[6REGRAS.md](https://github.com/danielamaksoud/INF1629TerceiroTrabalho/blob/master/Documenta%C3%A7%C3%A3o/6REGRAS.md)** | Documenta como empregamos as 6 regras no trabalho
 
 
 ### Pré Requisitos e Execução ###
-Código e instruções de uso no [repositório](https://github.com/ninofabrizio/corpus-retrieval).
+Código e instruções de uso no repositório [ninofabrizio/corpus-retrieval](https://github.com/ninofabrizio/corpus-retrieval).
 
 ### Construído com ###
 - **[Brackets](http://brackets.io/)** (editor de código utilizado)
